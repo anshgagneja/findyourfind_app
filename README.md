@@ -65,14 +65,14 @@ This Flutter-based mobile app is the customer-facing companion to the FindYourFi
 |--------|---------------|
 | ![WhatsApp Image 2025-06-05 at 09 25 12_b0298968](https://github.com/user-attachments/assets/7c52732e-82d6-4483-a133-cecc23634906)
 | ![WhatsApp Image 2025-06-05 at 09 23 22_c10ada2f](https://github.com/user-attachments/assets/871aff33-290e-492b-8fa5-640308e541a6)
- |
+|
 
 | Cart | Wishlist | Order History |
 |------|----------|----------------|
 | ![WhatsApp Image 2025-06-05 at 09 23 51_93283b3f](https://github.com/user-attachments/assets/7bb03015-3cc4-49d8-bd7c-7d5a8ebf0b09)
- | ![WhatsApp Image 2025-06-05 at 09 24 16_987214a4](https://github.com/user-attachments/assets/bf28b9eb-7f30-4f94-bfc1-bf3e53e5b330)
+| ![WhatsApp Image 2025-06-05 at 09 24 16_987214a4](https://github.com/user-attachments/assets/bf28b9eb-7f30-4f94-bfc1-bf3e53e5b330)
 | ![WhatsApp Image 2025-06-05 at 09 24 31_861a3613](https://github.com/user-attachments/assets/93a8fa2f-f91f-418f-9072-ce5764ffbda3)
- |
+|
 
 
 
