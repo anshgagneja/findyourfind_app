@@ -61,12 +61,11 @@ This Flutter-based mobile app is the customer-facing companion to the FindYourFi
 
 | Sign Up | Product Grid |
 |--------|---------------|
-| ![Sign Up](https://github.com/user-attachments/assets/7c52732e-82d6-4483-a133-cecc23634906) | ![Product Grid](https://github.com/user-attachments/assets/871aff33-290e-492b-8fa5-640308e541a6) |
+| <img src="https://github.com/user-attachments/assets/7c52732e-82d6-4483-a133-cecc23634906" width="300"/> | ![Product Grid](https://github.com/user-attachments/assets/871aff33-290e-492b-8fa5-640308e541a6) |
 
 | Cart | Wishlist | Order History |
 |------|----------|----------------|
 | ![Cart](https://github.com/user-attachments/assets/7bb03015-3cc4-49d8-bd7c-7d5a8ebf0b09) | ![Wishlist](https://github.com/user-attachments/assets/bf28b9eb-7f30-4f94-bfc1-bf3e53e5b330) | ![Order History](https://github.com/user-attachments/assets/93a8fa2f-f91f-418f-9072-ce5764ffbda3) |
-
 
 
 
